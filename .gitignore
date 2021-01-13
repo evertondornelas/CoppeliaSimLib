@@ -19,3 +19,8 @@ mocinclude.opt
 object_script.*.Debug
 object_script.*.Release
 
+CMakeFiles/*
+CMakeCache.txt
+cmake_install.cmake
+coppeliaSim_autogen/*
+.vscode/*

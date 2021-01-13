@@ -16,6 +16,7 @@
 #include "threadPool.h"
 #include <sstream>
 #include <iomanip>
+#include <chrono>
 #include <boost/algorithm/string/replace.hpp>
 #ifdef SIM_WITH_GUI
     #include "auxLibVideo.h"
